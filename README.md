@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh Garza</h1>
 <h3 align="center">A passionate software engineer from California.</h3>
 
-- 🔭 I’m currently working on [USDR Grants Initiative](https://github.com/joshgarza/usdr-gost) and [jobGPT](https://github.com/joshgarza/jobGPT)
+- 🔭 I’m currently working on [USDR Grants Initiative](https://github.com/joshgarza/usdr-gost) and [Strengthtrainer](https://github.com/joshgarza/strengthtrainer-server)
 
 - 🌱 I’m currently learning **Next.js, Vue, and how to utilize LLMs in programmatic and efficient ways.**
 
