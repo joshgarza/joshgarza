@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Josh Garza</h1>
-<h3 align="center">A passionate software engineer from California.</h3>
+<h3 align="center">An engineer tackling difficult problems with AI, accessibility, alignment, and safety.</h3>
 
-- 🔭 I’m currently working on [USDR Grants Initiative](https://github.com/joshgarza/usdr-gost) and [Strengthtrainer](https://github.com/joshgarza/strengthtrainer-server)
+- 🔭 I’m currently working on [LLM Attention Verifier](https://github.com/joshgarza/attention_verifier) and [UbiquityVX](https://github.com/ubiquityvx/cloud)
 
-- 🌱 I’m currently learning **Next.js, Vue, and how to utilize LLMs in programmatic and efficient ways.**
+- 🌱 I’m currently learning about **how LLM's *think*.**
 
-- 👨‍💻 All of my projects are available at [joshgarza.dev](https://joshgarza.dev)
+- 👨‍💻 Most of my projects are available at [joshgarza.dev](https://joshgarza.dev)
 
 - 📫 How to reach me **josh@josh-garza.com**
 
